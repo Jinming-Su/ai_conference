@@ -1,5 +1,5 @@
 ## International Conferences in Artificial Intelligence
-* [Conference Page](). CCF Rank is China Computer Federation Recommended Ranking, for Chinese student only.
+* [Conference Page](http://jinmingsu.net/widget/ai_conference/conferences-with-ccf.html). CCF Rank is China Computer Federation Recommended Ranking, for Chinese student only.
 
 ### TODO List
 - [ ] Auto Crawler
